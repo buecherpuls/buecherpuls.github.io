@@ -1,0 +1,29 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            <center>Buecher<br>puls</center>
+tagline:          ''
+description:      'Die offizielle Webpräsenz von buecherpuls. Aktives Mitglied der Bücher Community auf Instagram'
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+author:
+  name:           'Maren Westerhoff'
+  url:            https://buecherpuls.github.io
+
+paginate:         5
+
+plugins:
+  - jekyll-gist
+
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
